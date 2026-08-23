@@ -1,0 +1,30 @@
+                    AI RESUME ANALYZER
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+        Resume PDF                  Job Description
+             │                           │
+             ↓                           ↓
+      PyPDF2 Extraction             Job Text
+             │                           │
+             └─────────────┬─────────────┘
+                           ↓
+                  Resume Analysis
+                           │
+          ┌────────────────┼────────────────┐
+          ↓                ↓                ↓
+      ATS Score       Skills Detection   Sections
+          │                │                │
+          └────────────────┼────────────────┘
+                           ↓
+                    Job Matching
+                           │
+              ┌────────────┴────────────┐
+              ↓                         ↓
+       Matched Keywords          Missing Keywords
+              │                         │
+              └────────────┬────────────┘
+                           ↓
+                    Job Match Score
+                           ↓
+                    Results Dashboard
