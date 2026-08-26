@@ -107,6 +107,19 @@ Suggestions are generated
         ↓
 Results are displayed in the frontend
 ```
+## 📸 Screenshots
+
+### Home Page
+
+![AI Resume Analyzer Home](screenshots/01-home.png)
+
+### ATS Analysis
+
+![ATS Analysis Results](screenshots/02-ats-results.png)
+
+### Job Matching
+
+![Job Match Results](screenshots/03-job-match.png)
 
 ## 🔧 Installation
 
